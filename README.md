@@ -1,6 +1,10 @@
 # Free resources
 Links and information how to get free goodies.
 
+Useful links for JavaScript-learners:
+1. [www.freecodecamp.org](https://www.freecodecamp.org/)
+A non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
+
 ## Free .co domain from Devfolio
 
 1. Visit go.co/HackInOut to search for your .co domain
